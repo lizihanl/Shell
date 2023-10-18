@@ -1,0 +1,3 @@
+/Users/zihan/Documents/BCIT/COMP4981/a1/cmake-build-debug/CMakeFiles/a1.dir
+/Users/zihan/Documents/BCIT/COMP4981/a1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zihan/Documents/BCIT/COMP4981/a1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
